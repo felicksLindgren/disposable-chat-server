@@ -1,10 +1,8 @@
 {
-  "name": "nodejs-app",
+  "name": "disposable-chat-server",
   "version": "1.0.0",
   "description": "A minimal Node.js web application.",
   "main": "index.js",
-  "author": "alphasec",
-  "license": "MIT",
   "type": "module",
   "dependencies": {
     "dotenv": "^16.3.1",
