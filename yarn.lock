@@ -62,10 +62,10 @@ dotenv@^16.3.1:
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.3.1.tgz#369034de7d7e5b120972693352a3bf112172cc3e"
   integrity sha512-IPzF4w4/Rd94bA9imS68tZBaYyBWSCE47V1RGuMrB94iyTOIEwRmVL2x/4An+6mETpLrKJ5hQkB8W4kFAadeIQ==
 
-eiows@^6.6.1:
-  version "6.6.1"
-  resolved "https://registry.yarnpkg.com/eiows/-/eiows-6.6.1.tgz#866ea9b77feaae98d33dc479ed274c56e5842127"
-  integrity sha512-sUhAvoTmhvB5Qf+pY2KVceTYdAkuHko9G4K9tfvvhW65v5Aa1WurTFbtKwQ/y3bsvTWOVjRrpwMjbvX/+FmEoQ==
+eiows@^6.6.2:
+  version "6.6.2"
+  resolved "https://registry.yarnpkg.com/eiows/-/eiows-6.6.2.tgz#8678644143b530b388c22955fd4f74cdcf442e2b"
+  integrity sha512-DCOshLdMT5j/KB+KMxUrPDjsE0wT6tJAb4VNR1T0eHuvdMzlRDyY7D+X2hQqdpyMYEy2oFLlxYgGYE7tGX93kw==
 
 engine.io-parser@~5.1.0:
   version "5.1.0"
